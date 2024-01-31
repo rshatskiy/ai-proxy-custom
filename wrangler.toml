@@ -4,6 +4,6 @@ compatibility_date = "2023-08-07"
 compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
-CLIENT_ID = ""
-CLIENT_SECRET = ""
+CLIENT_ID = "5d24590c-47fb-43cb-bcc1-99ad822ec9b7"
+CLIENT_SECRET = "178f0bf6-bd64-4b39-b01e-4cfddf5658f3"
 CUSTOM_SERVER_NAME = "My Custom Server"
